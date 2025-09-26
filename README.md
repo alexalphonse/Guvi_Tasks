@@ -1,0 +1,1 @@
+This repository, Guv_Tasks, contains tasks provided by the Guvi team to help you learn DevOps and its tools. It includes instructions for setting up a repository and using Git for version control. You can find quick setup instructions and commands to get started.
